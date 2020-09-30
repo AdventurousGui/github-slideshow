@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Use xyzzy for magic stuff!
 Use the left arrow to go back!
